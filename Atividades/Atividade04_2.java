@@ -6,7 +6,7 @@ public class Atividade04_2 {
     public static void main(String[] args) {
         String a, b, auxiliar;
         Scanner scan = new Scanner(System.in);
-        System.out.print("Insira valor de A : ");
+        System.out.print("Insira valor de A: ");
         a = scan.nextLine();
         System.out.print("Insira valor de B: ");
         b = scan.nextLine();
