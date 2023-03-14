@@ -4,8 +4,8 @@ import java.util.Scanner;
 public class Atividade01 {
     public static void main (String[] args) {
         Scanner scan = new Scanner(System.in);
-        float nota1, nota2, nota3, media;
         String nomeAluno;
+        float nota1, nota2, nota3, media;
         
         System.out.print("Insira nome do aluno: ");
         nomeAluno = scan.nextLine();
