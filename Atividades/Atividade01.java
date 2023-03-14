@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class Atividade01 {
     public static void main (String[] args) {
-        
         Scanner scan = new Scanner(System.in);
         float nota1, nota2, nota3, media;
         String nomeAluno;
@@ -26,7 +25,6 @@ public class Atividade01 {
             System.out.println("Aprovado!");
         } else {
             System.out.println("Reprovado!");
-        }
-        
+        } 
     }
 }
